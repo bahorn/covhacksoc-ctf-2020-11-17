@@ -1,7 +1,7 @@
 import socket
 
 
-HOST = 'localhost'
+HOST = '35.214.13.199'
 PORT = 1035
 
 def side(a, b, c):
