@@ -1,3 +1,13 @@
+# SorryNotSorry
+
+Check out this program i made!
+
+It loads code in from ascii art! No one should be able to reverse my programs now!
+
+## Files Provided
+
+* challenge.py
+
 ## Solution
 
 First, replace the exec with a `print` to get the content of the encoded line:
