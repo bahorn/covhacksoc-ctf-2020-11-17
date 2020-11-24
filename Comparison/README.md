@@ -1,3 +1,14 @@
+# Comparison
+
+Check out my cool flag storage service! It's avaliable here: http://<IP>:5123
+
+It requires a password to get the flag!
+
+## Files Provided
+
+* app.py
+* requiremennts.txt
+
 ## Solution
 
 * The string comparsion function doesn't ensure the user input and the password have the same length.
