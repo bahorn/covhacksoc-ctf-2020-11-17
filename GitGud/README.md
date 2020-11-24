@@ -1,4 +1,13 @@
-# Forensics on a git repo
+# GitGud
+
+Hey! Check out this fancy encryption tool i made!
+
+See if you can unlock flag.txt!
+
+## Files Provided
+
+* ctf.zip
+* flag.txt.fernet
 
 ## Solution
 
