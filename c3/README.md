@@ -2,7 +2,7 @@
 
 First, replace the exec with a `print` to get the content of the encoded line:
 
-```
+```python3
 import random
 import hashlib
 import zlib
@@ -14,8 +14,7 @@ So this extracts code from magic, and executes it.
 
 We repeat the process again, and get the contents of `fun()`:
 
-```
-
+```python3
 def fun():
     key = b'5LE2JE5VFMJN8ZGCN9OQLQHQY7JEMCUI'
     packed = 'dgQ+Sy82agkyJSM9Zy0mMBFWOTQ+OiE9NWg5Kj8xLDQ='
