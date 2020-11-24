@@ -1,3 +1,17 @@
+# PrettyTriangles
+
+
+Now for something different!
+
+I'm running a service at <IP>:1035 where it prompts you tell if a point in in a triangle!
+
+Check out the censored source code if you want to get an idea how it works.
+
+
+## Files Provided
+
+* censored.py
+
 ## Solution
 
 * You connect to a tcp server
